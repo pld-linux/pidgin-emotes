@@ -2,11 +2,11 @@
 # Content of this spec is semiautomatically generated from scripts at
 # http://glen.alkohol.ee/gaim-smileys/
 # TODO
-#  - package themes as subpackages?
+#  - package smileys as subpackages?
 Summary:	Snapshot of Available Gaim Smiley Themes
 Name:		gaim-smileys
 Version:	20050206
-Release:	0.6
+Release:	0.7
 Epoch:		0
 License:	as-is
 Group:		Applications/Communications
@@ -262,9 +262,9 @@ tar -zxf %{SOURCE46}
 
 # remove general cruft
 find -type d -name .xvpics | xargs -ri rm -rf
-find -type f -name 'Makefile*' | xargs -ri rm -rf
-find -type f -name '*theme*' -a ! -name theme -a ! -name '*.png'  | xargs -ri rm -rf
-find -type f -name .cvsignore  | xargs -ri rm -rf
+find -type f -name 'Makefile*' | xargs -ri rm -f
+find -type f -name '*theme*' -a ! -name theme -a ! -name '*.png'  | xargs -ri rm -f
+find -type f -name .cvsignore  | xargs -ri rm -f
 
 # remove specific cruft
 rm -f exhaustive/lt_purple.tar
