@@ -4,7 +4,7 @@
 # TODO
 #  - package smileys as subpackages?
 Summary:	Snapshot of Available Gaim Smiley Themes
-Summary(pl):	Snapshot dostÍpnych motywÛw u∂mieszkÛw dla Gaima
+Summary(pl.UTF-8):   Snapshot dostƒôpnych motyw√≥w u≈õmieszk√≥w dla Gaima
 Name:		gaim-smileys
 Version:	20050206
 Release:	0.7
@@ -230,74 +230,74 @@ Snapshot of Available Gaim Smiley Themes. Includes:
   ICQ4 Lite emotion incons (smileys)) v1.0 by xenious
 - ar-smiles (Happy blue smileys :)) v1.3 by akiross
 
-%description -l pl
-Snapshot dostÍpnych motywÛw u∂mieszkÛw do Gaima. Zawiera:
-- ICQ Default (u∂mieszki i emotikony dla ICQ) v1.0 by KingAnt
-- Exhaustive (domy∂lne u∂mieszki protoko≥u w≥±cznie z rozszerzonymi
-  u∂mieszkami AIM-a) v1.0 by SeanEgan
+%description -l pl.UTF-8
+Snapshot dostƒôpnych motyw√≥w u≈õmieszk√≥w do Gaima. Zawiera:
+- ICQ Default (u≈õmieszki i emotikony dla ICQ) v1.0 by KingAnt
+- Exhaustive (domy≈õlne u≈õmieszki protoko≈Çu w≈ÇƒÖcznie z rozszerzonymi
+  u≈õmieszkami AIM-a) v1.0 by SeanEgan
 - Alien (emotikony Alien) v1.0 by robflynn
-- Small Green Men (ma≥e zielone u∂mieszki AIM-a) v1.0 by pur-angst
+- Small Green Men (ma≈Çe zielone u≈õmieszki AIM-a) v1.0 by pur-angst
 - Bugeyes (motyw Cartoon Bugeyed dla AIM-a/ICQ) v1.11 by Reivec
-- Kids (dziecinne u∂mieszki AIM-a/ICQ) v1.01 by Reivec
+- Kids (dziecinne u≈õmieszki AIM-a/ICQ) v1.01 by Reivec
 - Crystal AIM (motyw Crystal ikon AIM-a/ICQ) v1.01 by Reivec
 - Easter AIM (ikony Easter egg dla AIM-a/ICQ) v1.01 by Reivec
 - Hamburger (hamburgery) v0.1 by LX_Xero
-- Kitties (motyw u∂mieszkÛw czarnego kota) v0.1 by LX_Xero
-- SmallSmiles (ma≥e emotikony podobne do tych w AIM-ie) v1.0 by
+- Kitties (motyw u≈õmieszk√≥w czarnego kota) v0.1 by LX_Xero
+- SmallSmiles (ma≈Çe emotikony podobne do tych w AIM-ie) v1.0 by
   GnomePro
-- Tweak (TweakIcons - bardzo g≥adkie ;)) v0.1.3 by XTerm
-- Filthy Smilies (∂miesznie wymiotuj±ce, upijaj±ce i bij±ce siÍ
-  u∂mieszki! wszystkie oryginalne i kryszta≥owe AIM-a/ICQ i nowo∂Ê:
+- Tweak (TweakIcons - bardzo g≈Çadkie ;)) v0.1.3 by XTerm
+- Filthy Smilies (≈õmiesznie wymiotujƒÖce, upijajƒÖce i bijƒÖce siƒô
+  u≈õmieszki! wszystkie oryginalne i kryszta≈Çowe AIM-a/ICQ i nowo≈õƒá:
   dodatkowe animowane gify) v0.80 by qwerty474
-- Nis (u∂mieszki Nis zrobione od zera) v1.0 by fr3nd
-- MadcowWorld Enhanced Smileys (zmieniaj± menu u∂mieszkÛw i dodaj±
-  u∂mieszki MSN 6) v1.0.17-Fish Ed. by imadcow1
+- Nis (u≈õmieszki Nis zrobione od zera) v1.0 by fr3nd
+- MadcowWorld Enhanced Smileys (zmieniajƒÖ menu u≈õmieszk√≥w i dodajƒÖ
+  u≈õmieszki MSN 6) v1.0.17-Fish Ed. by imadcow1
 - Crystal Gaim (Everaldo's Crystal SVG dla Gaima) v0.2.1 by Chromakode
-- msn6 (oficjalne u∂mieszki MSN 6) v0.2 by totoprout
+- msn6 (oficjalne u≈õmieszki MSN 6) v0.2 by totoprout
 - Maya Smileys v0.7
 - trillypro (motyw trillian dla gAIM-a) v1.6 by RevNumbers
-- Aqua (motyw u∂mieszkÛw OS X Aqua) v0.1 by static_earth
-- Jimmac (nowe u∂mieszki autorstwa Jimmaca) v2 by static_earth
-- Compilation (zawiera wszystkie u∂mieszki AIM-a 5.0-8.0 i MSN 6.0)
+- Aqua (motyw u≈õmieszk√≥w OS X Aqua) v0.1 by static_earth
+- Jimmac (nowe u≈õmieszki autorstwa Jimmaca) v2 by static_earth
+- Compilation (zawiera wszystkie u≈õmieszki AIM-a 5.0-8.0 i MSN 6.0)
   v1.1 by hyperchaos
-- TrillianSmileys (TrillianSmileys (pe≥ne) + rozszerzenia dla GAIM-a)
+- TrillianSmileys (TrillianSmileys (pe≈Çne) + rozszerzenia dla GAIM-a)
   v0.1 by kingjohn
-- simplicity (ma≥e u∂mieszki zrobione z my∂l± o prostocie) v1.0 by emp
+- simplicity (ma≈Çe u≈õmieszki zrobione z my≈õlƒÖ o prostocie) v1.0 by emp
 - iChat Gaim (emotikony iChata) v1.0 by goozballs3
-- DiGi's smileypack (GoT smileypack z dodanymi u∂mieszkami MSN6) v1.1
+- DiGi's smileypack (GoT smileypack z dodanymi u≈õmieszkami MSN6) v1.1
   by DiGiSTORM
 - JimmacGaim (zesaw oparty na emotikonach Jimmaca) v0.1 by xoan
-- FeltTip Gaim (oryginalny motyw Gaima z ≥agodnymi i ekspresywnymi
+- FeltTip Gaim (oryginalny motyw Gaima z ≈Çagodnymi i ekspresywnymi
   ikonami) v1.0 by Chromakode
-- Flat (ma≥e szare u∂mieszki pasuj±ce do zestawu ikon Flat) v1.0 by
+- Flat (ma≈Çe szare u≈õmieszki pasujƒÖce do zestawu ikon Flat) v1.0 by
   Reeve
-- Default Plus (domy∂lne u∂mieszki + ostatnie ICQ + ostatnie Yahoo)
+- Default Plus (domy≈õlne u≈õmieszki + ostatnie ICQ + ostatnie Yahoo)
   v1.02 by Salokyn
-- Medium Specific (uaktualnienie do zestawu pingwinich strÍczycieli
-  dodaj±ce 79 animowanych u∂mieszkÛw Yahoo (uaktualnione 30/6/2004))
+- Medium Specific (uaktualnienie do zestawu pingwinich strƒôczycieli
+  dodajƒÖce 79 animowanych u≈õmieszk√≥w Yahoo (uaktualnione 30/6/2004))
   v1.4 by carbonize
-- Smarts Smilies (autorski zestaw u∂mieszkÛw) v0.2 by smart_idiot
-- TuxHead (g≥owa Tuksa) v1.0 by themeadd
+- Smarts Smilies (autorski zestaw u≈õmieszk√≥w) v0.2 by smart_idiot
+- TuxHead (g≈Çowa Tuksa) v1.0 by themeadd
 - Gangsta Gaim (zestaw oparty na Original Gangsta Emotes (20x20)) v0.1
   by xoan
-- spymac.com smileys (u∂mieszki ze spymac.com) v1.0 by punkvoter101
-- Hand Drawn (u∂mieszki AIM-a rysowane z przodu) v1.0 by drew146
+- spymac.com smileys (u≈õmieszki ze spymac.com) v1.0 by punkvoter101
+- Hand Drawn (u≈õmieszki AIM-a rysowane z przodu) v1.0 by drew146
 - The Dudes (The Dudes Gaim Smiles ZicklePopa oparte na jego motywie
   Gaima) vOne by ZicklePop
-- phpbb2 smilies (trochÍ u∂mieszkÛw z phpbb2) v.1 by Tanner
-- General [M]ayhem (u∂mieszki z forÛw General Mayhem) v1.0 by trendie
+- phpbb2 smilies (trochƒô u≈õmieszk√≥w z phpbb2) v.1 by Tanner
+- General [M]ayhem (u≈õmieszki z for√≥w General Mayhem) v1.0 by trendie
 - InBob (InBob theme) v0.6 by xOvni
 - Popo Gaim (emotikony popo) v0.2 by rootcho
-- ICQ Lite (uaktualnione: ten motyw zawiera nowe u∂mieszki ICQ Lite)
+- ICQ Lite (uaktualnione: ten motyw zawiera nowe u≈õmieszki ICQ Lite)
   v1.0 by piko
 - AMSN Theme (motyw Amsn dla Gaima) v1.0 by tscoutinho
-- ICQ Lite 4 - Smileys (wszystkie u∂mieszki ICQ Lite 4 sportowane do
+- ICQ Lite 4 - Smileys (wszystkie u≈õmieszki ICQ Lite 4 sportowane do
   Gaima) v1.0 by MarcoBehr
-- FeltTip [Reprised] (∂wieøy, ponownie zrobiony nastÍpca zestawu
+- FeltTip [Reprised] (≈õwie≈ºy, ponownie zrobiony nastƒôpca zestawu
   FeltTip) v2.0 by Chromakode
-- XENIOUS - oryginalne ikony ICQ Emotion (pe≥ny zestaw emotikonek ICQ4
+- XENIOUS - oryginalne ikony ICQ Emotion (pe≈Çny zestaw emotikonek ICQ4
   Lite) v1.0 by xenious
-- ar-smiles (szczÍ∂liwe niebieskie u∂mieszki :)) v1.3 by akiross
+- ar-smiles (szczƒô≈õliwe niebieskie u≈õmieszki :)) v1.3 by akiross
 
 %prep
 %setup -q -c -T
