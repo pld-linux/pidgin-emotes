@@ -4,7 +4,7 @@
 # TODO
 #  - package smileys as subpackages?
 Summary:	Snapshot of Available Gaim Smiley Themes
-Summary(pl.UTF-8):   Snapshot dostępnych motywów uśmieszków dla Gaima
+Summary(pl.UTF-8):	Snapshot dostępnych motywów uśmieszków dla Gaima
 Name:		gaim-smileys
 Version:	20050206
 Release:	0.7
