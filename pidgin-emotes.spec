@@ -5,12 +5,13 @@
 #  - package smileys as subpackages?
 Summary:	Snapshot of Available Gaim Smiley Themes
 Summary(pl.UTF-8):	Snapshot dostępnych motywów uśmieszków dla Gaima
-Name:		gaim-smileys
+Name:		pidgin-emotes
 Version:	20050206
-Release:	0.7
-Epoch:		0
+Release:	0.9
 License:	as-is
 Group:		Applications/Communications
+Obsoletes:	gaim-smileys
+Obsoletes:	pidgin-smileys
 # ICQ Default v1.0
 Source0:	http://www.kingant.net/gaim/icq.tar.gz
 # Source0-md5:	cc9d1fa637401648933ffc5dfc766eec
@@ -150,15 +151,16 @@ Source44:	http://files.customize.org/gaimsmile/FeltTipReprised1-0.tar.gz
 Source45:	http://www.xenious.com/XENIOUS_ICQ_icons_GAIM.zip
 # Source45-md5:	950abd370eacbbea27e9c46562414807
 # ar-smiles v1.3
-Source46:	http://utenti.lycos.it/akiross//other/ar-smiles/ar-smiles-1.3.tar.gz
+Source46:	http://utenti.lycos.it/akiross/other/ar-smiles/ar-smiles-1.3.tar.gz
 # Source46-md5:	46e09a8a2d6ba379e75c3b7b5cd362ee
-URL:		http://gaim.sourceforge.net/themes.php
+#URL:		http://gaim.sourceforge.net/themes.php
 BuildRequires:	unrar
 BuildRequires:	unzip
-Requires:	gaim
+Requires:	pidgin
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%define		_datadir	/usr/share/pixmaps/gaim/smileys
+%define		_datadir	/usr/share/pixmaps/pidgin/emotes
 
 %description
 Snapshot of Available Gaim Smiley Themes. Includes:
@@ -379,5 +381,4 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
-#%doc AUTHORS CREDITS ChangeLog NEWS README THANKS TODO
 %{_datadir}
