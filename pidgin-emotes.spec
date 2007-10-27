@@ -7,7 +7,7 @@ Summary:	Snapshot of Available Gaim Smiley Themes
 Summary(pl.UTF-8):	Snapshot dostępnych motywów uśmieszków dla Gaima
 Name:		pidgin-emotes
 Version:	20050206
-Release:	0.9
+Release:	1
 License:	as-is
 Group:		Applications/Communications
 Obsoletes:	gaim-smileys
