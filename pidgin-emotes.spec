@@ -3,15 +3,13 @@
 # http://glen.alkohol.ee/gaim-smileys/
 # TODO
 #  - package smileys as subpackages?
-Summary:	Snapshot of Available Gaim Smiley Themes
-Summary(pl.UTF-8):	Snapshot dostępnych motywów uśmieszków dla Gaima
+Summary:	Snapshot of available Pidgin smiley themes
+Summary(pl.UTF-8):	Snapshot dostępnych motywów uśmieszków dla Pidgina
 Name:		pidgin-emotes
 Version:	20050206
 Release:	1
 License:	as-is
 Group:		Applications/Communications
-Obsoletes:	gaim-smileys
-Obsoletes:	pidgin-smileys
 # ICQ Default v1.0
 Source0:	http://www.kingant.net/gaim/icq.tar.gz
 # Source0-md5:	cc9d1fa637401648933ffc5dfc766eec
@@ -157,13 +155,15 @@ Source46:	http://utenti.lycos.it/akiross/other/ar-smiles/ar-smiles-1.3.tar.gz
 BuildRequires:	unrar
 BuildRequires:	unzip
 Requires:	pidgin
+Obsoletes:	gaim-smileys
+Obsoletes:	pidgin-smileys
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %define		_datadir	/usr/share/pixmaps/pidgin/emotes
 
 %description
-Snapshot of Available Gaim Smiley Themes. Includes:
+Snapshot of available Pidgin smiley themes. Includes:
 - ICQ Default (Smileys and emoticons for ICQ) v1.0 by KingAnt
 - Exhaustive (Default protocol smileys including extended AIM smileys)
   v1.0 by SeanEgan
@@ -233,7 +233,7 @@ Snapshot of Available Gaim Smiley Themes. Includes:
 - ar-smiles (Happy blue smileys :)) v1.3 by akiross
 
 %description -l pl.UTF-8
-Snapshot dostępnych motywów uśmieszków do Gaima. Zawiera:
+Snapshot dostępnych motywów uśmieszków do Pidgina. Zawiera:
 - ICQ Default (uśmieszki i emotikony dla ICQ) v1.0 by KingAnt
 - Exhaustive (domyślne uśmieszki protokołu włącznie z rozszerzonymi
   uśmieszkami AIM-a) v1.0 by SeanEgan
